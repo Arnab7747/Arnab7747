@@ -16,7 +16,9 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
+- Learning ML
 - I’m currently open for an Intern 
+
 
 <br><br>
 
