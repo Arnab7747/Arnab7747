@@ -15,10 +15,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
-- Learning ML
-- I’m currently open for an Internship 
-
+-I am dedicated to building my skills and knowledge in the fields of MERN stack development and machine learning.
 
 <br><br>
 
