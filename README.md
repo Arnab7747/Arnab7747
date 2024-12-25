@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Jyoti Borah</h1>
 <h3 align="center">A passionate web developer and cloud technology enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab7747&label=Profile%20views&color=0e75b6&style=flat" alt="arnab7747" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab7747" alt="arnab7747" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Technologies**
 
 - 💬 Ask me about **React , Java , Docker and AWS**
@@ -13,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arnab7747/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnab7747/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/arnabjyotibora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/arnabjyotibora" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arnab7747/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab7747/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/arnabjyotibora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arnabjyotibora" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/arnab_jyoti_borah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arnab_jyoti_borah/" height="30" width="40" /></a>
 </p>
 
