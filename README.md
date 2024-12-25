@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnab Jyoti Borah</h1>
-<h3 align="center">A passionate web developer and cloud technology enthusiast from India, driven by innovation and a commitment to creating impactful solutions.</h3>
+<h3 align="center">A passionate web developer and cloud technology enthusiast from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab7747&label=Profile%20views&color=0e75b6&style=flat" alt="arnab7747" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab7747" alt="arnab7747" /></a> </p>
 
